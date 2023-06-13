@@ -9,5 +9,5 @@ edition = "2018"
 [dependencies]
 clickhouse-rs = "=0.1.14"
 futures = "0.1.29"
-tokio = "0.1.22"
+tokio = "1.18.5"
 env_logger = "0.7.0"
